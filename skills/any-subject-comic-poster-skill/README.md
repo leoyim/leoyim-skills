@@ -13,7 +13,7 @@
 
 ## 安装
 
-将 `any-subject-comic-poster/` 文件夹复制到你所用 Agent 平台的技能目录。具体路径取决于平台，例如 WorkBuddy 的用户级技能目录 `~/.workbuddy/skills/`。
+将 `any-subject-comic-poster-skill/` 文件夹复制到你所用 Agent 平台的技能目录。具体路径取决于平台，例如 WorkBuddy 的用户级技能目录 `~/.workbuddy/skills/`。
 
 技能定义见 [SKILL.md](SKILL.md)。
 

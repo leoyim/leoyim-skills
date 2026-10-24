@@ -8,14 +8,14 @@ A collection of personal agent skills (compatible with the SKILL spec used by Wo
 
 | Skill | Description | Type |
 | --- | --- | --- |
-| [any-subject-comic-poster](skills/any-subject-comic-poster/) | Turn any reference image (cat, animal, person, or character) into a consistent 9:16 comic-collage poster while preserving the subject's identity | Image generation |
+| [any-subject-comic-poster-skill](skills/any-subject-comic-poster-skill/) | Turn any reference image (cat, animal, person, or character) into a consistent 9:16 comic-collage poster while preserving the subject's identity | Image generation |
 
 ## Layout
 
 ```
 leoyim-skills/
 └── skills/
-    └── any-subject-comic-poster/
+    └── any-subject-comic-poster-skill/
         ├── README.md   # Skill description (English)
         ├── README.en.md
         └── SKILL.md    # Skill definition (loaded by the agent)

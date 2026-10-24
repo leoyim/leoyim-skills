@@ -13,7 +13,7 @@ A compact reusable skill for turning reference images of cats, animals, people, 
 
 ## Install
 
-Copy the `any-subject-comic-poster/` folder into the skills directory used by your agent. The exact location depends on the platform — e.g. the user-level skills directory `~/.workbuddy/skills/` in WorkBuddy.
+Copy the `any-subject-comic-poster-skill/` folder into the skills directory used by your agent. The exact location depends on the platform — e.g. the user-level skills directory `~/.workbuddy/skills/` in WorkBuddy.
 
 See [SKILL.md](SKILL.md) for the skill definition.
 
